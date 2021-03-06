@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="image_tourism">Image Tourism</string>
+    <string name="tourism_name">TOURISM NAME</string>
+    <string name="item_subtitle">Item Subtitle</string>
+    <string name="image_profile">Image Profile</string>
+    <string name="icon_like">Icon Like</string>
+    <string name="count_like">10</string>
+    <string name="label_popular">Popular</string>
+    <string name="image_back">Image Back</string>
+    <string name="image_location">Image_location</string>
+    <string name="description">Description</string>
+    <string name="background_image">Background Image</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Rafli Rasyidin</string>
+    <string name="my_email">raflirasyidin20@gmail.com</string>
+    <string name="summary">Summary</string>
+    <string name="my_summary">I am a student in computer science at University of Singaperbangsa Karawang who is interested in android development. I\'m used to making an android project using Android Jetpack Components such as ROOM, Retrofit, MVVM etc. Besides that, I also really enjoy interacting with people to hone my communication skills and build relationships.</string>
+</resources>
